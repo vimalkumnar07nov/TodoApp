@@ -3,7 +3,7 @@ body {
     font-family: "Josefin Sans", sans-serif;
     font-size: 23px;
   }
-  
+
   input[type="text"],
   input[type="text"]:focus {
     color: #fff;
